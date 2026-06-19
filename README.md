@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Shashank%20Sadarao&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<h1 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate</h1>
+<h1 align="center">🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Specialist</h1>
 
 <p align="center">
   <a href="https://github.com/shashank-sadarao">
